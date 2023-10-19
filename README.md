@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Team : \t ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Team : ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 # 🚀 Tech Stack
@@ -14,11 +14,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanS09&show_icons=true&theme=dark)](https://github.com/NathanS09)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanS09&layout=compact&theme=dark)](https://github.com/NathanS09)
-
-# 🌐 Réseaux Sociaux
-
-- [LinkedIn](LIEN_VERS_VOTRE_PROFILE_LINKEDIN) - Profil LinkedIn
-- [Discord](LIEN_VERS_VOTRE_SERVER_DISCORD) - Serveur Discord
 
 # 👁️ Profile Views
 
