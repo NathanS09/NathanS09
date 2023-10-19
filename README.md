@@ -1,15 +1,37 @@
 💫 About Me:
 
-436f75636f752c206d6f6920632765737420456c6f75616e2c207369207475206c697320c3a76120632765737420767261696d656e742071756520747520646f69732061766f69722064752074656d707320c3a0207065726472652c206d61697320632765737420706173206772617665206f6e207427656e20766f75647261207061732e203c33
-💻 Tech Stack:
+blabla
+
+
+🚀 Tech Stack
+
 Languages and Tools:
+- Android
+- Arduino
+- C
+- C#
+- .NET
+- Git
+- Java
+- Linux
+- MySQL
+- Nginx
+- Python
+- Unity
 
-android arduino c csharp docker dotnet git java linux mariadb mssql mysql nginx python unity xamarin
-📊 GitHub Stats:
+📊 GitHub Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanS09&show_icons=true&theme=dark)](https://github.com/NathanS09)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanS09&layout=compact&theme=dark)](https://github.com/NathanS09)
 
-🌐 Socials:
+ Réseaux Sociaux
 
-Discord LinkedIn Twitter
+- [LinkedIn](LIEN_VERS_VOTRE_PROFILE_LINKEDIN) - Profil LinkedIn
+- [Discord](LIEN_VERS_VOTRE_SERVER_DISCORD) - Serveur Discord
+
+👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=NathanS09)
+
 
