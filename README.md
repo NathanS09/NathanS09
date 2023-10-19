@@ -1,16 +1,15 @@
-### Hi there 👋
+💫 About Me:
 
-<!--
-**NathanS09/NathanS09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+436f75636f752c206d6f6920632765737420456c6f75616e2c207369207475206c697320c3a76120632765737420767261696d656e742071756520747520646f69732061766f69722064752074656d707320c3a0207065726472652c206d61697320632765737420706173206772617665206f6e207427656e20766f75647261207061732e203c33
+💻 Tech Stack:
+Languages and Tools:
 
-Here are some ideas to get you started:
+android arduino c csharp docker dotnet git java linux mariadb mssql mysql nginx python unity xamarin
+📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌐 Socials:
+
+Discord LinkedIn Twitter
+
