@@ -9,14 +9,14 @@ Languages and Tools:
 - Android
 - Arduino
 - C
-- C#
-- .NET
+- [C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- [.NET]https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 - Git
 - Java
 - Linux
 - MySQL
 - Nginx
-- Python
+- [Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 - Unity
 
 📊 GitHub Stats
